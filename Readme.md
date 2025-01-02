@@ -1,8 +1,11 @@
-Python Banking System
-Project Description
+**Python Banking System**
+
+**Project Description**
+
 This project implements a Banking System using Python. It simulates basic banking operations such as account creation, balance inquiry, deposits, withdrawals, transfers, and transaction history. The system is designed with object-oriented programming principles and includes features for data validation and secure access.
 
-Features
+**Features**
+
 Account Management
 
 Create customer accounts with details such as name, phone, age, Aadhaar, address, balance, and PIN.
@@ -32,7 +35,7 @@ Create Accounts
 
 Use the Sbi class constructor to create accounts.
 python
-Copy code
+
 c1 = Sbi("John Doe", 9876543210, 30, 123456789012, "123 Main St", 1000, 1234)
 Perform Transactions
 
